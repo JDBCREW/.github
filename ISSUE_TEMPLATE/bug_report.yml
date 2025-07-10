@@ -1,0 +1,34 @@
+name: 🐞 버그 제보
+description: 서비스 사용 중 발견된 버그를 제보해주세요
+title: "[BUG] "
+labels: ["bug"]
+body:
+  - type: textarea
+    attributes:
+      label: 어떤 문제가 발생했나요?
+      description: 문제 상황을 최대한 자세히 써주세요
+      placeholder: 예) 로그인 시 버튼 클릭이 안 됩니다.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: 어떻게 재현하나요?
+      description: 재현 순서를 단계별로 적어주세요
+      placeholder: 예) 1. 로그인 화면으로 이동 → 2. 로그인 버튼 클릭
+    validations:
+      required: false
+
+  - type: textarea
+    attributes:
+      label: 기대한 동작 vs 실제 동작
+      description: 어떤 결과를 기대했고, 실제로 어떻게 작동했나요?
+    validations:
+      required: false
+
+  - type: input
+    attributes:
+      label: 브라우저 / 기기 정보
+      placeholder: 예) Chrome 123 / iPhone 14
+    validations:
+      required: false
