@@ -1,3 +1,8 @@
+🧭 PR 템플릿 선택이 잘못되었나요?
+
+- [기능 구현 템플릿으로 이동](?expand=1&template=feature_template.md)
+- [버그 수정 템플릿으로 이동](?expand=1&template=bugfix_template.md)
+
 ## 🐞 버그 수정 PR 템플릿
 
 ### ✅ 작업내역 요약
@@ -49,5 +54,3 @@
 - 혹은 추가 설명이 필요한 경우 여기에 작성
 
 ---
-
-🔙 [기본 템플릿으로 돌아가기](https://github.com/JDBCREW/.github/compare/main/.github/PULL_REQUEST_TEMPLATE.md)
