@@ -37,4 +37,4 @@
 
 ---
 
-🔙 [기본 템플릿으로 돌아가기](../PULL_REQUEST_TEMPLATE.md)
+🔙 [기본 템플릿으로 돌아가기](https://github.com/JDBCREW/.github/compare/main/.github/PULL_REQUEST_TEMPLATE.md)
