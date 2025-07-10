@@ -1,9 +1,8 @@
+## ✨ 신규 기능 PR 템플릿
+
 🧭 PR 템플릿 선택이 잘못되었나요?
 
-- [기능 구현 템플릿으로 이동](?expand=1&template=feature_template.md)
 - [버그 수정 템플릿으로 이동](?expand=1&template=bugfix_template.md)
-
-## ✨ 신규 기능 PR 템플릿
 
 ### ✅ 작업내역 요약
 
